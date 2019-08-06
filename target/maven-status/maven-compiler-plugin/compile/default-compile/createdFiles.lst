@@ -1,0 +1,8 @@
+etg\hadoop\demo\FlowCountMapper.class
+etg\hadoop\demo\FlowCountReducer.class
+etg\hadoop\demo\WordCountDriver.class
+etg\hadoop\demo\ProvincePartitioner.class
+etg\hadoop\demo\WordCountMapper.class
+etg\hadoop\demo\FlowCountDriver.class
+etg\hadoop\demo\FlowBean.class
+etg\hadoop\demo\WordCountReducer.class
